@@ -1,5 +1,5 @@
 # UPC-Homework-Repo
-此repo的范围适用于石油大学（华东）通信系，content为本人的本科课程作业、代码
+本人本科四年的课程作业、代码，中国石油大学（华东）通信2023级
 
 [信息论](https://github.com/maojinxiang/Information-Theory-And-Coding.git)
 
