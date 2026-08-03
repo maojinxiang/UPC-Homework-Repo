@@ -1,5 +1,5 @@
 # UPC-Homework-Repo
-本科四年的课程作业、代码，中国石油大学（华东）通信2023级，资料仅供参考，严禁任何抄袭与商业用途！
+本科四年的课程作业、代码，中国石油大学（华东）通信2023级，资料仅供参考且完全免费，严禁任何商业用途！
 
 [信息论](https://github.com/maojinxiang/Information-Theory-And-Coding.git)
 
