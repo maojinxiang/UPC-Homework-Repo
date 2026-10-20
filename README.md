@@ -23,6 +23,7 @@
 
 [微机原理](https://github.com/maojinxiang/Microcomputer-Principles.git)
 
+[FPGA](https://github.com/maojinxiang/FPGA-Homework.git)
 
 
 
