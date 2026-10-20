@@ -19,6 +19,8 @@
 
 [计算机网络](https://github.com/maojinxiang/Computer-Network.git)
 
+[数电](https://github.com/maojinxiang/Digital-Electronics.git)
+
 
 
 
