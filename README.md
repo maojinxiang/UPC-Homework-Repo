@@ -21,6 +21,8 @@
 
 [数电](https://github.com/maojinxiang/Digital-Electronics.git)
 
+[微机原理](https://github.com/maojinxiang/Microcomputer-Principles.git)
+
 
 
 
